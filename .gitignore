@@ -1,0 +1,32 @@
+# .gitignore for Unity projects
+
+# Ignore all files in the Temp folder and Library folder
+[Tt]emp/
+[Ll]ibrary/
+
+# Ignore all .meta files
+*.meta
+
+# Ignore all files in the Build and Logs folders
+[Bb]uild/
+[Ll]ogs/
+
+# Ignore all .bak files
+*.bak
+
+# Ignore all files in the obj and .vscode folders
+obj/
+.vscode/
+
+# Ignore user-specific files
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+
+# Ignore all DS_Store files
+.DS_Store
